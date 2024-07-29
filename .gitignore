@@ -1,0 +1,4 @@
+.idea/
+tmpfiles/*
+!tmpfiles/.gitkeep
+supervisord.*

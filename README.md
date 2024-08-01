@@ -5,7 +5,7 @@ Small project using Laravel & Docker to demonstrate a couple issues with PDF gen
 1. [Basics](basics)
 2. [Docker Setup](#docker-setup)
 3. [puppeteer Issue](#puppeteer-issue)
-4. [paged.js Issue](#paged.js-issue)
+4. [paged.js Issue](#pagedjs-issue)
 
 ## Basics
 
